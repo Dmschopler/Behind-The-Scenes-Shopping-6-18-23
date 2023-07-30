@@ -10,4 +10,4 @@ This applicattion helps explain what happens on a lot of sites now adays with al
 
 ## Demo
 Below is a quick video to show how the application works.
-<video src="https://drive.google.com/file/d/1cEDnnECYLlMzToPlqKBkgZ2dEn9sI7Tq/view" controls title="Title"></video>
+<video src="https://drive.google.com/file/d/1cEDnnECYLlMzToPlqKBkgZ2dEn9sI7Tq/view?usp=sharing" controls title="Title"></video>
